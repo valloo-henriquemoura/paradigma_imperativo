@@ -42,8 +42,13 @@ O Paradigma Imperativo é uma das bases da programação moderna e entender seus
 ## Contribuidores
 
 Charles Pereira Marcelino Júnior
+
 Gabriel Galvão Soares Silva
+
 Henrique Gonçalves de Moura
+
 João Pedro Aviani
+
 Josué Oliveira
+
 Willk Pedreira 
